@@ -1,1 +1,2 @@
 # gcoCode2
+[![CI/CD Main site](https://github.com/MauKnabbenOfficial/GerConfigCICD/actions/workflows/azure-static-web-apps-thankful-water-0b89eee10.yml/badge.svg)](https://github.com/MauKnabbenOfficial/GerConfigCICD/actions/workflows/azure-static-web-apps-thankful-water-0b89eee10.yml)
